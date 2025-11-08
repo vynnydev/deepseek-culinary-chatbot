@@ -28,6 +28,10 @@ Este projeto amplia uma aplicação de NLP para detectar a intenção "ingredien
 
 ---
 
+🖼️ Exemplo de resposta da API
+
+![Exemplo de resposta da API Deepseek](docs/images/resposta-deepseek.png)
+
 ## 🧪 Como executar
 
 1. Clone o repositório:
